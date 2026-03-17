@@ -1,0 +1,4 @@
+Pour le TP1, j'ai voulu vraiment me détacher de l'aide des autres et vraiment faire des efforts de moi-même et honnêtement, je pense avoir ressenti de la progression. Bien entendu, j'ai utilisé l'IA pour m'aider lorsque j'étais dans le flou à quelques moments comme par exemple: les parties avec "carte" et "bouton" (car je n'avais aucune idée); il m'a suggéré la partie "tag" (que j'ai remodifier moi même) pour rajouté des sortes de boutons en dessous des projets (partie "html, css, figma…); l'IA m'a aussi aidé pour la partie "apropos h2" pour mettre le titre "à propos" dans la parie haute de la page et au centre car je n'y arrivais pas et puis d'autres petites chose dont je n'ai plus connaissance .
+En résumé, pour ce travail, j'ai considéré l'IA non pas comme un esclave qui fait le travail à ma place mais comme un outil, un deuxième cerveau qui enrichi le premier.
+
+Théo Aladenise, TP1
